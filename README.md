@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jwmenjivar
-- 👀 I’m interested in making a living of coding
-- 🌱 I’m currently learning from scratch
-- 💞️ I’m looking to collaborate on the basic stuff until I can do more
+- 👀 I’m interested in coding all the way.
+- 🌱 I’m currently learning from scratch... and will be learning until days are over.
+- 💞️ I’m looking to add more skills in both width and depth to my stack.
 - 📫 How to reach me on Twitter @JosephMenjivar7
 
 <!---
